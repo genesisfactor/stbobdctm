@@ -90,7 +90,7 @@ This repo contains the scripts used to introduce the participating students to p
               1. Let's make a bubble level
               2. Check out [tilt_x.py](tilt_x.py) for an inspiration
               3. You can compare to [bubble_level.py](bubble_level.py)
-          4. Optioaln/only for groups: comms and radios (you need multiple microbits for this to work)
+          4. Optional/only for groups: comms and radios (you need multiple microbits for this to work)
             1. Understanding the Bluetooth radio
             2. Copy code for [firefly.py](firefly.py) and see how the microbits interact with each other
             3. Explain the behavior in your own words
