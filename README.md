@@ -1,5 +1,5 @@
-# README
-# stbobdctm = St Bernards Old Boys Diveristy Council Technology and Mentoring - 6/5/21 Session- Getting started with the Micro:bit
+# stbobdctm README
+# St Bernards Old Boys Diveristy Council Technology and Mentoring - 6/5/21 Session- Getting started with the Micro:bit
 
 This repo contains the scripts used to introduce the participating students to practical programming concepts with microcotnrollers (a Micro:bit).  Some are original code while others are borrowed from the Microbit main site. Here is the order and approach to using this repo.
 
