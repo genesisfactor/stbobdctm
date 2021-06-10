@@ -64,35 +64,39 @@ This repo contains the scripts used to introduce the participating students to p
                 2. You can represent the values of your leds in this 5x5 matrix. 
                 3. You can express scenes as lists of lists and use delays to make the animation faster or sllower
                 4. [boat.py](boat.py)
-		3. Adding inputs
-			    1. Buttons
-            1. Boat on button animation
-              1. Turn to docs on buttons
-              2. have class describe to me how it works
-              3. code it or check out [boat_on_button](boat_on_button.py)
+    3. Adding inputs
+	  1. Buttons
+	    	1. Boat on button animation
+	     		1. Turn to docs on buttons
+	      		2. have class describe to me how it works
+	      		3. code it or check out [boat_on_button](boat_on_button.py)
 
           2. Compass
-            1. Magnetism as in input
-              1. Google "mems sensors", to understand how these components work and help your microcontroller 
-              2. How do you think we can show a compass on such a small screen? (hint: in your class, there is something that points to numbers in a big circle)
-              3. Let's make pseudocode on how we can use it
-              4. Check out code in [compass.py](compass.py)
-              5. Let's understand how image groups be used to easily create visualizations
-              6. Add your own comments to describe how it works
+
+            	1. Magnetism as in input
+	
+		      1. Google "mems sensors", to understand how these components work and help your microcontroller 
+		      2. How do you think we can show a compass on such a small screen? (hint: in your class, there is something that points to numbers in a big circle)
+		      3. Let's make pseudocode on how we can use it
+		      4. Check out code in [compass.py](compass.py)
+		      5. Let's understand how image groups be used to easily create visualizations
+		      6. Add your own comments to describe how it works
+	
           3. Accelerometers and gyroscopes
-            1. Tilt as an input
-              1. describe a tilt sensing gyro
-              2. Look up speed, velocity, and acceleration equations to understand how you can figure out one from the others
-              3, Let's make pseudocode on how we can use it
-              4. Check out code in [tilt_x.py](tilt_x.py)
-              5. Add your own comments to describe how it works
-            2. CODE ON YOUR OWN (15-20 minutes)
-              1. Let's make a bubble level
-              2. Check out [tilt_x.py](tilt_x.py) for an inspiration
-              3. You can compare to [bubble_level.py](bubble_level.py)
-          4. Optional/only for groups: comms and radios (you need multiple microbits for this to work)
-            1. Understanding the Bluetooth radio
-            2. Copy code for [firefly.py](firefly.py) and see how the microbits interact with each other
-            3. Explain the behavior in your own words
-            4. Try to get them to flash together faster.
+            	1. Tilt as an input
+		      1. describe a tilt sensing gyro
+		      2. Look up speed, velocity, and acceleration equations to understand how you can figure out one from the others
+		      3, Let's make pseudocode on how we can use it
+		      4. Check out code in [tilt_x.py](tilt_x.py)
+		      5. Add your own comments to describe how it works
+		2. CODE ON YOUR OWN (15-20 minutes)
+		      1. Let's make a bubble level
+		      2. Check out [tilt_x.py](tilt_x.py) for an inspiration
+		      3. You can compare to [bubble_level.py](bubble_level.py)
+	
+           4. Optional/only for groups: comms and radios (you need multiple microbits for this to work)
+                1. Understanding the Bluetooth radio
+                2. Copy code for [firefly.py](firefly.py) and see how the microbits interact with each other
+                3. Explain the behavior in your own words
+                4. Try to get them to flash together faster.
 
